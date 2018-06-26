@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>자라나라 자리자리</title>
 <style>
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Faster+One|Gugi|Press+Start+2P|VT323');
 *{
